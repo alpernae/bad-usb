@@ -1,5 +1,5 @@
 # Giriş
-Merhabalar Bad usb hakkında yazdığım yazıda yer alan kodu buradan inderebilirsiniz.
+Merhabalar Bad usb hakkında yayımladığım videoya ve video içerisinde yer alan kodu buradan inderebilirsiniz.
 
 ## Yazıya ve Videoya'ya Aşağıdaki linklerden erişebilirsiniz.
 
